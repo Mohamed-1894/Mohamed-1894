@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 <!--
-**Mohamed-1894/Mohamed-1894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm Mohamed, a fulldtack developer based in Egypt.
+I build and deliver innovative solutions and project to clients.
+I'm looking to help clients to deliver their own websites.
+I have got a project called Sales and Inventory Oraganization.
+If you want to contact me, text me in LinkedIN or Instagram.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
