@@ -41,11 +41,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Hard Work beats Talent!!</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Hello for more Challanges!!</p>
 
 ###
 
